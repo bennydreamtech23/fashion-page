@@ -271,7 +271,7 @@ button:hover{
 }
 
 .left-slide p{
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 400;
   opacity: 0.8;
   display:block;
@@ -280,7 +280,7 @@ button:hover{
 }
 
 .left-slide strong{
-font-size: 19px;
+font-size: 18px;
 font-weight: bold;
 display: block;
 }
@@ -305,7 +305,7 @@ display: block;
     background-color: white;
     border: none;
     color: #aaa;
-    font-size: 10px;
-    padding: 10 px;
+    font-size: 7px;
+    padding: 7px;
   }
 }
